@@ -1,4 +1,4 @@
-# diamonds
+# Diamonds
 Analysis of diamond cuts and prices with data visualization, practicing experimental design
 
 Following this outline:
